@@ -1,4 +1,4 @@
-package src.factory.simplefactory;
+package src.creational.factory.simplefactory;
 
 public class SimpleFactory {
 

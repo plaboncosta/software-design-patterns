@@ -1,6 +1,6 @@
-package src.factory.factorymethod;
+package src.creational.factory.factorymethod;
 
-import src.factory.simplefactory.Shape;
+import src.creational.factory.simplefactory.Shape;
 
 public class FactoryMethod {
     public static void main(String[] args) {

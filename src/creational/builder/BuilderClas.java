@@ -1,4 +1,4 @@
-package src.builder;
+package src.creational.builder;
 
 class Product {
     private String name;
